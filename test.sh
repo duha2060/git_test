@@ -3,5 +3,4 @@ second
 third
 go
 
-alo aasd
-alo sad
+test.sh
